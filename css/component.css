@@ -443,6 +443,8 @@
 
 .item--roses .item__img {
 	height: 220px;
+	margin: -8% auto !important;
+	padding-left: 6% !important;
 }
 
 .item--bowls {
