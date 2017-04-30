@@ -434,6 +434,17 @@
 
 /* Kitchen */
 
+/* Bar*/
+
+.item--roses {
+	top: 260px;
+	left: 420px;
+}
+
+.item--roses .item__img {
+	height: 220px;
+}
+
 .item--bowls {
 	top: 92px;
 	left: -27px;
